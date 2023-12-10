@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    src: url(./fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf);
+    src: url();
+}
+@font-face {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    src: url(./fonts/Roboto/Roboto-Regular.ttf);
+    src: url();
+}
+@font-face {
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+    src: url(./fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    src: url();
+}
+@font-face {
+    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+    src: url(./fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    src: url();
+:root {
+    --main-color: #F2C94C;
+    --header-logo: "Oswald", sans-serif;
+}
+
+@maintitle: "Montserrat", sans-serif;
+*{
+    margin: 0; // внешние отступы
+    padding: 0; // внутренние отступы
+    box-sizing: border-box;
+}
+html {
+    font-size: 10px;
+    font-family: "Roboto";
+    background-color: var(--main-color);
+}
+<link rel="stylesheet" href="./style/style.css">
+
+h1{
+    font-family: var(--header-logo)
+    font-weight: 700;
+}
+.wrapper{
+    width: calc(100% - 90px); // ширина
+}
+
+header{
+    height: 50pt;
+    width: 100%;
+    background-color: var(--main-color);
+    border: 1px solid #000;
+}

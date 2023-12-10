@@ -1,0 +1,38 @@
+=== цвета
+
+F2C94C
+
+=== шрифты
+
+**montserrat
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+
+**Roboto regular 400
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+**Oswald 400
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+YOURLOGO
+
+фигма https://youtu.be/DK37VHC8PBE?si=OsezMWJ3RRPO5yf2
+
+=====????
+1. у меня файл style.less и style.css не синхорнизируются
+2. style.css как будто не подгружатеся. шрифты распаковал, загрузил, но они не отражаются шрифт везде один какой-то по умолчанию
+
+
+====проверка вида сайта
+
+http://iloveadaptive.com/ru/url/
+https://validator.w3.org/nu/?doc=https%3A%2F%2Fwww.odin.study%2F - валидатотр ищет ошибки кода

@@ -1,0 +1,41 @@
+!-- 
+   <h1>hello word</h1>
+    
+    
+    <!-- парные теги -->
+    <div id="block-id"></div>
+    <h1 style="margin: 0; padding: 0;"></h1>
+    <h2>привет мир</h2>
+    <h3></h3>
+    <h4></h4>
+    <h5></h5>
+    <h6></h6>
+    <form action="#" method="post"></form>
+        <input type="text" name="" id="">
+    <p></p>
+    <a href=""></a>
+    <button></button>
+    <span></span>
+    <main></main>
+    <section></section>
+    <footer></footer>
+    <head></head>
+    <ul></ul>
+    <li></li>
+    <strong></strong>
+    <!-- парные теги -->
+    <!-- непарные теги -->
+    <br>
+    <hr>
+    <img src="./style/image/bg.jpg" alt="фоновая картинка">
+    <link rel="stylesheet" href="">
+    <input type="text" name="" id="">
+    <input type="email" name="" id="">
+    <input type="tel" name="" id="">
+    <input type="radio" name="" id="">
+    <input type="range" name="" id="">
+    <input type="checkbox" name="" id="">
+    <textarea name="" id="" cols="30" rows="10"></textarea>
+    <!-- непарные теги -->
+     -->
+</body> -->
